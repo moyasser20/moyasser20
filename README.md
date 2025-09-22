@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋! My name is Mohamed Yasser and I'm a Senior SW Engineer at Cairo University || Flutter developer</h1>
+<h1 align="center">👋 Hi! My name is Mohamed Yasser and I'm a Senior SW Engineer at Cairo University || Flutter Developer</h1>
 
 ###
 
-<h3 align="center">📄 You can check my CV here:</h3>
-<p align="center">
+<h3 align="left">📄 My CV</h3>
+<div align="left">
   <a href="https://drive.google.com/drive/folders/1Hu3hFhwnG3celwxN9n7cYy4kebYgAKDh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My+CV&logo=google-drive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cv logo" />
   </a>
-</p>
+</div>
 
 ###
 
-<h3 align="left">language & tools</h3>
-
-###
+<h3 align="left">🛠️ Languages & Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="60" alt="python logo"  />
@@ -37,9 +35,7 @@
 
 ###
 
-<h3 align="left">Connect with me</h3>
-
-###
+<h3 align="left">🤝 Connect with me</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-yasser-42b16a282/" target="_blank">
@@ -58,7 +54,9 @@
 
 ###
 
-<div align="center">
+<h3 align="left">📊 GitHub Stats</h3>
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=moyasser20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moyasser20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
