@@ -4,7 +4,7 @@
 
 <h3 align="left">📄 My CV</h3>
 <div align="left">
-  <a href="https://drive.google.com/drive/folders/1Hu3hFhwnG3celwxN9n7cYy4kebYgAKDh" target="_blank">
+  <a href="[https://drive.google.com/drive/folders/1Hu3hFhwnG3celwxN9n7cYy4kebYgAKDh](https://drive.google.com/file/d/1IAV_8tmM3Ulh1ogUwFFwz_efQCRun_L8/view?usp=sharing)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My+CV&logo=google-drive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cv logo" />
   </a>
 </div>
